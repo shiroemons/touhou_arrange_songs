@@ -457,7 +457,6 @@ Dr.レイテンシーの眠れなくなる瞳
 バー・オールドアダム
 燕石博物誌が連れてきた闇
 アウトサイダーカクテル
-パンデモニックプラネット
 旧世界の冒険酒場
 二日酔いの同床異夢
 魔方陣　～ Magic Square
@@ -482,6 +481,7 @@ Civilization of Magic
 フェアリー冒険譚
 二つの世界
 神域のかくれんぼ暮らし
+判読眼のビブロフィリア
 夜の鳩山を飛ぶ
 宵闇の魔術師
 Magic of Life
@@ -515,7 +515,7 @@ Castle Explorer -in the Sky-
 オルフェの詩　～ Pseudoclassic
 新幻想　～ New Fantasy
 オルレアンの聖騎士
-My Maid, Sweet Maid
+"My Maid, Sweet Maid"
 桜花之恋塚　～ Flower of Japan
 乙女戦士　～ Heart of Valkyrie
 エニグマティクドール　～ God Knows
@@ -527,5 +527,11 @@ Sacred Battle
 AN ORDEAL FROM GOD
 キュアリアス上海古牌
 巨大な影と小さな結末
+ネオ竹林インフレイム
+億万劫の鐘
+オカルトアトラクト
+境界フォークロア
+アンノウンＸ　～ Occultly Madness
+相貌の狂い　～ Horrible Night
 オリジナル
 その他
